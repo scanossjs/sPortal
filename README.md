@@ -1,2 +1,2 @@
 # sPortal
-This is alarger  synthetic codebase used for a demo scan
+This is a larger synthetic codebase used for a demo scan
